@@ -110,6 +110,7 @@ local L = setmetatable({
     kotlin = { M.cxx_l, M.cxx_b },
     lean = { M.dash, M.lean_b },
     lean3 = { M.dash, M.lean_b },
+    ledger = { M.semicolon },
     lidris = { M.dash, M.haskell_b },
     lilypond = { M.latex, '%{%s%}' },
     lisp = { M.lisp_l, M.lisp_b },
